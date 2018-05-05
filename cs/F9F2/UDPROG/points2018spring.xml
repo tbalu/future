@@ -1,9 +1,27 @@
-﻿<udprogpoints>
+<udprogpoints>
 
 <student>
-      <name></name>
-      <points></points>
-      <bookingurl></bookingurl>
+      <name>Szabó Sándor Miklós</name>
+      <points>159.632</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1JpDQeEt6FZ3hjIM9HNTlaM69Iu14vCrd2RMASTthaHc/edit?usp=sharing</bookingurl>
+</student>
+
+<student>
+      <name>Kovács Ferencz</name>
+      <points>779.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1NVGjDVXQQFIorXV7K6VwkzCKjb1LW49Z-V3ApnWklVQ/edit?usp=sharing</bookingurl>
+</student>
+
+<student>
+      <name>Nagy Márta</name>
+      <points>385.8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1Fa9j-d6g0VehziC--CTRTsUG_7acPLdqI5dbp6aXvKc/edit?usp=sharing</bookingurl>
+</student>
+
+<student>
+      <name>Tóth Norbert/name>
+      <points>73.2</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1H7D8wE16WVDRtzeRvCO3R7j6P7BaOgGHpTXUpr37khg/edit?usp=sharing</bookingurl>
 </student>
 
 <student>
