@@ -1,5 +1,5 @@
 <udprogpoints>
- 
+  
 <student>
       <name>Horváth Csaba</name>
       <points>524.592</points>
@@ -165,12 +165,11 @@
       <points>135.6</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1u2cjt4_4icrt0hBATBS8-1AxHKryo0gmKS5wIULgZRc/edit#gid=0</bookingurl>
 </student> 
+      
+</udprogpoints>
 
- <student>
+<student>
       <name>Tóth Balázs</name>
       <points>128.4</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/16uTpOmaFeOInXZBfK9HWWN48m3tt_4g2v9UDikkatLQ/edit?usp=sharing</bookingurl>
 </student>
- 
-</udprogpoints>
-
